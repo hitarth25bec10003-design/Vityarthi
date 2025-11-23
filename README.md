@@ -33,6 +33,7 @@ The model is trained using regression algorithms and evaluates performance using
 
 ### 1️ Clone the Repository
    Clone repository using proper format
+   
 2. Install Dependencies pip install -r requirements.txt
 
 3. Train the Model python train_model.py
@@ -42,6 +43,3 @@ The model is trained using regression algorithms and evaluates performance using
 5. Open in Browser http://127.0.0.1:5000
 
 
-## 🚀 Steps to Install & Run the Project
-
-### 1️⃣ Clone the Repository
